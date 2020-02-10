@@ -1,6 +1,6 @@
 .name{
   background-color: white;
-  color: black;
+  color: green;
 }
 
 h1{
@@ -17,4 +17,14 @@ width: 50%;
 display: block;
 
 
+}
+.bold-text{
+  font-weight: bold;
+}
+
+.float-left{
+  float: left;
+}
+.float-right{
+  float: right;
 }
